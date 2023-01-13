@@ -1,4 +1,4 @@
-# Coding Examples 
+# coding-examples 
 ### Examples of python code I wrote on various occasions
 
 ## older_annotsImport.py
